@@ -18,7 +18,7 @@ namespace Library
         }
 
 
-        void DisplayInfo()
+        public void DisplayInfo()
         {
             Console.WriteLine($"Title: {Title}");
             Console.WriteLine($"Author: {Author}");
